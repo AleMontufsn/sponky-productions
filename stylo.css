@@ -1,0 +1,37 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+
+.productos {
+	color: black;
+	background-color: aqua;
+	border: 3px solid #00fff2;
+}
+
+.productos:hover {
+	cursor: pointer;
+	color: white;
+	background-color: #13745c;
+	color: white;
+	background-color: #13745c;
+	cursor: pointer;
+}
+
+
+.f9ou {
+	font-family: sans-serif;
+}
+
+.btm892117901971173487:hover {
+	cursor: pointer;
+	color: black;
+	background-color: white;
+}
+
+.btm892117901971173487 {
+	cursor: pointer;
+	color: white;
+	background-color: black
+}
