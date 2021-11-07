@@ -1,12 +1,8 @@
-body {
-	background-color: black;
-	color: white;
-}
-
 
 .productos {
 	color: black;
 	background-color: aqua;
+	width: 20;
 	border: 3px solid #00fff2;
 }
 
@@ -14,14 +10,12 @@ body {
 	cursor: pointer;
 	color: white;
 	background-color: #13745c;
-	color: white;
-	background-color: #13745c;
-	cursor: pointer;
 }
 
 
 .f9ou {
 	font-family: sans-serif;
+	text-align: center;
 }
 
 .btm892117901971173487:hover {
